@@ -1,1 +1,1 @@
-# hyperskill_coffee_machine_in_python
+# hyperskill coffee machine in python
